@@ -69,27 +69,6 @@ Business-Management-System
 │   └── trigger_output.png
 ```
 
----
-
-## 📸 Screenshots
-
-### Database Tables
-![Tables](screenshots/tables.png)
-
-### Customer Data Inserted
-![Customer Data](screenshots/customers_data.png)
-
-### Basic Query Output
-![Basic Query](screenshots/basic_query.png)
-
-### Advanced Query Output
-![Advanced Query](screenshots/advanced_query.png)
-
-### Trigger Execution Output
-![Trigger Output](screenshots/trigger_output.png)
-
----
-
 ## ▶ How to Run This Project
 
 1. Open PostgreSQL and pgAdmin
